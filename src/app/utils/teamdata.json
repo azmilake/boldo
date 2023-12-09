@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/team-1.png",
+    "name": "Michael Scott",
+    "position": "General Manager"
+  },
+  {
+    "img": "/team-2.png",
+    "name": "Dwight Schrute",
+    "position": "General Manager"
+  },
+  {
+    "img": "/team-3.png",
+    "name": "Pam Beetsley",
+    "position": "General Manager"
+  }
+]

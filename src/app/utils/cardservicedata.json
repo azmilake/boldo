@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/service-img-1.png",
+    "service": "Cool feature title",
+    "desc": "Learning curve network effects return on investment.",
+    "link": "#"
+  },
+  {
+    "img": "/service-img-2.png",
+    "service": "Cool feature title",
+    "desc": "Learning curve network effects return on investment.",
+    "link": "#"
+  },
+  {
+    "img": "/service-img-3.png",
+    "service": "Cool feature title",
+    "desc": "Learning curve network effects return on investment.",
+    "link": "#"
+  }
+]
