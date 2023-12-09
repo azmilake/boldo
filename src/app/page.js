@@ -311,68 +311,6 @@ export default function Home() {
         </section>
 
         <Subscribe />
-
-        <section className="my-24 max-w-[1100px] mx-auto">
-          {/* <div className="grid md:grid-cols-3 grid-flow-row gap-6">
-            <div className="">
-              <img src="/about-img-1.png" />
-            </div>
-            <div className="row-span-2">
-              <img src="/about-img-1.png" className="h-full object-cover" />
-            </div>
-            <div className="">
-              <img src="/about-img-1.png" />
-            </div>
-            <div className="">
-              <img src="/about-img-1.png" />
-            </div>
-            <div className="">
-              <img src="/about-img-1.png" />
-            </div>
-          </div> */}
-
-          <div class="grid grid-cols-3 grid-rows-2 gap-8">
-            <div class="col-span-1 row-span-1">
-              <img
-                src="/about-img-3.png"
-                alt="Foto 2"
-                class="w-full h-[330px] object-cover rounded-3xl"
-              />
-            </div>
-
-            <div class="col-span-1 row-span-2 rounded-2xl overflow-hidden">
-              <img
-                src="/about-img-2.png"
-                alt="Foto 1"
-                class="w-full h-full object-cover"
-              />
-            </div>
-
-            <div class="col-span-1 row-span-1">
-              <img
-                src="/about-img-3.png"
-                alt="Foto 3"
-                class="w-full h-[330px] object-cover rounded-3xl"
-              />
-            </div>
-
-            <div class="col-span-1 row-span-2 overflow-hidden">
-              <img
-                src="/about-img-3.png"
-                alt="Foto 4"
-                class="w-full h-[330px] object-cover rounded-3xl"
-              />
-            </div>
-
-            <div class="col-span-1 row-span-1 overflow-hidden">
-              <img
-                src="/about-img-3.png"
-                alt="Foto 5"
-                class="w-full h-[330px] object-cover rounded-3xl"
-              />
-            </div>
-          </div>
-        </section>
       </main>
 
       <Footer />
